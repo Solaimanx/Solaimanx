@@ -8,4 +8,5 @@
 - 📫 How to reach me: Solaiman321@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
+Covid19 And Vaccine Tracker Demo--> https://covid19tracker-335f3.web.app/
+Linkedin Clone Demo-- > https://linkedin-clone-34f99.web.app/
