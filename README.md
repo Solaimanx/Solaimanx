@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web development. 
-- 🌱 I’m currently learning react, python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
+- 🌱 I’m currently learning react Native , postgres 
 - 💬 Ask me about life
 - 📫 How to reach me: Solaiman321@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I didn't like to do coding stuff for web development . Now i only use code 😅
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solaimanx&count_private=true)](https://git.io/streak-stats)
 
