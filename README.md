@@ -16,10 +16,13 @@
 
 <a href="https://github.com/sh4hids/prayertiming" >
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sh4hids&repo=prayertiming&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=solaimanx&repo=Covid-19-and-Vaccine-Tracker&theme=dark" />
 </a>
 
 
 
-Covid19 And Vaccine Tracker Demo--> https://covid19tracker-335f3.web.app/
-Linkedin Clone Demo-- > https://linkedin-clone-34f99.web.app/
+<a href="https://github.com/sh4hids/prayertiming" >
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=solaimanx&repo=Linkedin-clone&theme=dark" />
+</a>
+
