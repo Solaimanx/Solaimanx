@@ -11,14 +11,14 @@
 
 #### Projects
 
-<a href="https://github.com/sh4hids/prayertiming" >
+<a href="https://github.com/Solaimanx/Covid-19-and-Vaccine-Tracker" >
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=solaimanx&repo=Covid-19-and-Vaccine-Tracker&theme=dark" />
 </a>
 
 
 
-<a href="https://github.com/sh4hids/prayertiming" >
+<a href="https://github.com/Solaimanx/Linkedin-clone" >
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=solaimanx&repo=Linkedin-clone&theme=dark" />
 </a>
