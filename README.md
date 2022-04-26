@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development. 
-- 🌱 I’m currently learning react Native , postgres 
-- 💬 Ask me about life
+- 🔭 I’m currently working as Full-stack Software Engineer (MERN)
+- 🌱 I’m currently learning react Native , postgres ,Typescript
 - 📫 How to reach me: Solaiman321@gmail.com
 - ⚡ Fun fact: I didn't like to do coding stuff for web development . Now i only use code 😅
-- Linkedin - https://www.linkedin.com/in/mohammad-solaiman/
+- [Linkedin](https://www.linkedin.com/in/mohammad-solaiman)
+- [Facebook](https://www.facebook.com/Mohammadsolaiman0)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solaimanx&count_private=true)](https://git.io/streak-stats)
 
