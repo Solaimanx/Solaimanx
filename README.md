@@ -5,6 +5,7 @@
 - 💬 Ask me about life
 - 📫 How to reach me: Solaiman321@gmail.com
 - ⚡ Fun fact: I didn't like to do coding stuff for web development . Now i only use code 😅
+- Linkedin - https://www.linkedin.com/in/mohammad-solaiman/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solaimanx&count_private=true)](https://git.io/streak-stats)
 
