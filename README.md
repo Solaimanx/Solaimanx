@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Full-stack Software Engineer (MERN)
-- 🌱 I’m currently learning react Native , postgres ,Typescript
+- 🌱 I’m currently learning Nuxt js
 - 📫 How to reach me: Solaiman321@gmail.com
 - ⚡ Fun fact: I didn't like to do coding stuff for web development . Now i only use code 😅
 - [Linkedin](https://www.linkedin.com/in/mohammad-solaiman)
