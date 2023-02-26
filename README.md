@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I didn't like to do coding stuff for web development . Now i only use code 😅
 - [Linkedin](https://www.linkedin.com/in/mohammad-solaiman)
 - [Facebook](https://www.facebook.com/Mohammadsolaiman0)
+- Excited meet new developer. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solaimanx&count_private=true)](https://git.io/streak-stats)
 
